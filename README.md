@@ -1,1 +1,1 @@
-##diabetic prediction using machine learning classification algorithm
+## diabetic prediction using machine learning classification algorithm
